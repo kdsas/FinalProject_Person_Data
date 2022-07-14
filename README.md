@@ -1,4 +1,4 @@
-# FinalProject_Person_Data
+# FinalProject_Person_Data 💻
 
 Console Java program that stores 5 people's first/last names and ages in a Queue class that can sort the queue based on last name or age.
 
